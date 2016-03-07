@@ -8,7 +8,7 @@ One of the great traditions I inherited when I married Amanda has been family le
 
 As the family has grown, the 'family letters' distribution list has grown to include all of the married cousins and their families. The letters get sent to each cousin when they have served missions for the church, and to the college students away from home. Of course, all of these people are encouraged to write as well!
 
-For my children, reading these letters is a highlight of the month. We usually dedicate a Monday evening to reading them as part of our Family Home Evening activities. We know all the author's personally thanks to bi-annual family reunions. These started about twenty years ago, and have taken place all over the country. Most recently we went to Yellowstone National Park, but previously we've been to Colorado Springs, New York City, Cedar City, and Pineview Reservoir. The letters keep us connected to each other in between these crazy events.
+For my children, reading these letters is a highlight of the month. We usually dedicate a Monday evening to reading them as part of our Family Home Evening activities. We know all the authors personally thanks to bi-annual family reunions. These started about twenty years ago, and have taken place all over the country. Most recently we went to Yellowstone National Park, but previously we've been to Colorado Springs, New York City, Cedar City, and Pineview Reservoir. The letters keep us connected to each other in between these crazy events.
 
 I tried writing a family letter years ago, but it was struck down by the editing committee. This year I've decided writing a monthly letter is a great minimum standard for journaling.
 
