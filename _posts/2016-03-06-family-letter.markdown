@@ -3,8 +3,8 @@ layout: post
 title: Family Letter March 2016
 categories: family letter, family
 date: 2016-03-06 19:50
-----
-One of the great t raditions I inherited when I married Amanda has been family letters. Amanda's relatives on her father's side of the family have lived all across the country but have always managed to stay close. Each family writes a monthly letter and sends a copy to her aunt, who copies them and sends the set of letters out to all members of the family. They've been doing this since long before Facebook.
+---
+One of the great traditions I inherited when I married Amanda has been family letters. Amanda's relatives on her father's side of the family have lived all across the country but have always managed to stay close. Each family writes a monthly letter and sends a copy to her aunt, who copies them and sends the set of letters out to all members of the family. They've been doing this since long before Facebook.
 
 As the family has grown, the 'family letters' distribution list has grown to include all of the married cousins and their families. The letters get sent to each cousin when they have served missions for the church, and to the college students away from home. Of course, all of these people are encouraged to write as well!
 
