@@ -30,7 +30,7 @@ keywords: development, operations, devops, DevOps, neeley, powershell, saltstack
 links:
   facebook: dave.neeley1
   twitter: daveneeley
-  email: dave.neeley@gmail.com
+#  email: dave.neeley@gmail.com
   github: daveneeley
 
 ##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
