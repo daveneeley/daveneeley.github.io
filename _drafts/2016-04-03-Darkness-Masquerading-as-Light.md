@@ -23,4 +23,6 @@ Several months ago I testified about darkness and light in church. It's somethin
 
 I have a note written in my study notebook about these verses: "Irony - television is a very common way for taking away light and truth, and it is done by providing a false light.  TV, phones, computers, all of it -- all devices filled with light...what we do with the light determines what we learn from it."
 
+"Your family must needs repent and forsake some things, and give more earnest heed unto your sayings, or be removed out of their place" [Doctrine and Covenants 93:48](https://www.lds.org/scriptures/dc-testament/dc/93.48?lang=eng#47)
 
+"more diligent and concerned at home" - verse 50
