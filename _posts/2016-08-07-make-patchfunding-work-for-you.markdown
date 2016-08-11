@@ -12,4 +12,4 @@ Being the analytical person that I am, I thought the most accurate way to ensure
 
 Patchfunding has the concept of routes, but the UI doesn't make sense for 400 addresses. If by chance you are here trying to evaluate whether or not your council should buy this software, all I can say is...don't. I've written both the developers and the council. The council was sympathetic, but the developers never responded. So I found a way to make it work, and we'll go through it step-by-step.
 
-Next Post: {% post_url 2016-08-11-patchfunding-setup %}
+Next Post: [Patchfunding Setup]({% post_url 2016-08-11-patchfunding-setup %})
