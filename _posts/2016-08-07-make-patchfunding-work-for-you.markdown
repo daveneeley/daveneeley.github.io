@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Patchfunding setup
+title: Make Patchfunding Work For You
 categories: scouts
 date: 2016-08-07 12:45
 ---
