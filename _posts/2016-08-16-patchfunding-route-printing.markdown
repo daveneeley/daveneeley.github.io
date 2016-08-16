@@ -7,7 +7,7 @@ date: 2016-08-16 03:00
 If you've ever tried using the default "Print Donor Cards" function from the patchfunding unit dashboard, you've probably noticed that it generates a giant single pdf file. This would be nice, except that the cards are sorted alphabetically by last name, not by routes. This makes the pdf file very difficult to use. Fortunately, there's an easier way.
 
 # Theory
-My [last post](2016-08-11-patchfunding-setup) covered a complicated way for overachievers to ensure that every address in their unit is in the patchfunding software. The key to that setup, and to printing routes easily, is in the route name. Each route name needs to be unique enough that you can search by it from the 'All Donors' screen without accidentally including records from other routes. I did this by adding a numeric key to each route name, plus a delimiter. Here's an example.
+My [last post]({% post_url 2016-08-11-patchfunding-setup %}) covered a complicated way for overachievers to ensure that every address in their unit is in the patchfunding software. The key to that setup, and to printing routes easily, is in the route name. Each route name needs to be unique enough that you can search by it from the 'All Donors' screen without accidentally including records from other routes. I did this by adding a numeric key to each route name, plus a delimiter. Here's an example.
 
 Let's say I have three routes. Two of them are on First Street, and the third is on Second Street. So I start out with these route names:
 
@@ -35,4 +35,4 @@ Once you've got all your routes downloaded as pdfs, you can print them however a
 Give yourself enough time to print AND cut all the donor cards before your kick off meeting! That's a mistake I made the first year. If you review the pdf files, you'll note that the donor cards are still sorted by name instead of address. Last year I had my awesome family over on Friday night. They helped me cut, sort, and prepare each route envelope so the boys could take off running on Saturday morning.
 
 # Closing Remarks
-The best part of all of this is you should only have to set it all up once. If you followed my [last post](2016-08-11-patchfunding-setup) and imported the complete list of addresses from somewhere, then every address will remain in patchfunding for years to come. Having each address in patchfunding means you won't have to spend time printing up a separate list or tracking sheet to hand out with each route. They can just use the donor cards.
+The best part of all of this is you should only have to set it all up once. If you followed my [last post]({% post_url 2016-08-11-patchfunding-setup %}) and imported the complete list of addresses from somewhere, then every address will remain in patchfunding for years to come. Having each address in patchfunding means you won't have to spend time printing up a separate list or tracking sheet to hand out with each route. They can just use the donor cards.

@@ -1,15 +1,16 @@
 ---
 layout: post
-title: Patchfunding setup
+title: Patchfunding Setup
 categories: scouts
 date: 2016-08-11 03:00
 ---
-# Setup
-This post covers first-time setup of records on patchfunding.com. Once you have every address imported, it's fairly smooth sailing. The end result is to have an Excel workbook with several sheets:
+This post covers first-time setup of records on patchfunding.com. Once you have every address imported, it's fairly smooth sailing. The end result is to have an Excel workbook with several sheets, and have these imported into patchfunding.
 
  - A sheet containing all addresses in your unit from county records
  - A sheet containing all addresses currently in patchfunding
  - A sheet containing the merged set of the above, organized by routes
+
+See my [previous post]({% post_url 2016-08-07-make-patchfunding-work-for-you %}) to understand why I'm writing about this.
 
 ## Get a Map
 For this to work, you need a map or list with all the street addresses in your unit. Some people suggest, particularly in LDS units, that you can use the membership records and import those. BUT, those records do not cover every address in the unit, the addresses follow no standard, there are frequently duplicate records with different homeowner names (different households at the same address or old records that need to be moved out of the unit), etc. Just don't use them.
@@ -69,4 +70,4 @@ Click 'Manage Routes' from the dashboard. All of the new addresses you imported 
 
 Once that's done, log out of patchfunding and log back in. The 'Import Prospect List' feature only allows you to import one list per session. Now you can repeat this section for the next route.
 
-In my next post I'll talk about printing route based donor cards and control sheets.
+In my [next post]({% post_url 2016-08-16-patchfunding-route-printing %}) I'll talk about printing route-based donor cards and control sheets.
