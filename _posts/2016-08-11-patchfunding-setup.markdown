@@ -35,21 +35,21 @@ Sort the data on the 'county' sheet by 'StreetName', then by 'StreetNumber'. The
 
 Then you merge or combine the data from each source sheet in the manner that makes the most sense for you. You'll end up with some crazy formulas like this one:
 
-=IF(NOT(ISNA(INDEX(patchfunding!AF:AF,(MATCH($A2,patchfunding!$AC:$AC,0))))),INDEX(patchfunding!AF:AF,(MATCH($A2,patchfunding!$AC:$AC,0))),INDEX(county!M:M,(MATCH($A2,county!$L:$L,0))))
+```=IF(NOT(ISNA(INDEX(patchfunding!AF:AF,(MATCH($A2,patchfunding!$AC:$AC,0))))),INDEX(patchfunding!AF:AF,(MATCH($A2,patchfunding!$AC:$AC,0))),INDEX(county!M:M,(MATCH($A2,county!$L:$L,0))))```
 
 This says 'If the value from cell A2 has a match in column AC of the patchfunding sheet, display the value in column AF of the same row, otherwise use the value of column M from the matching row on the county sheet'. For my setup, this means use the 'Owner 1 Last Name' from patchfunding records if it exists, otherwise use 'Owner 1 Last Name' from the county records.
 
 The columns on the 'routes' sheet should be ordered as expected by patchfunding.com's import template. From the dashboard, Click 'Import Prospect List', then 'Download Prospect List Template' to get a copy. It's a csv file called 'import_template.csv'. The columns are 
 
-last_name
-first_name
-spouse_first
-addresss (yes, the extra 's' is in the field name)
-city
-state
-zip
-phone
-email
+    last_name
+    first_name
+    spouse_first
+    addresss (yes, the extra 's' is in the field name)
+    city
+    state
+    zip
+    phone
+    email
 
 You can keep 'StreetKey' as the first column on your 'routes' sheet, and then hide it when you need to export later.
 
