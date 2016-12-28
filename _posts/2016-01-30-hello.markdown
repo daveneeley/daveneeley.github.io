@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Hello Friends"
+date:   2016-01-30 20:55:00
+categories: 
+---
+
+This is my second attempt at maintaining a blog. But the first attempt was just for my scouts. 
+
+I was serving as an eleven-year-old scout leader in our ward (our church unit). I thought it would be fun to have our new scouts write about their experiences each week. As it turned out, getting more than two written sentences per week out of a group of eleven year old boys was challenging.
+
+That blog lasted about three weeks. Hopefully, this one lasts longer.

@@ -1,0 +1,39 @@
+##The website title
+name: Neeley Ops
+##Markdown processor
+markdown: kramdown
+##syntax highlighter. change it to pygments
+highlighter: rouge 
+
+gems: [jekyll-paginate]
+
+##define base_url for valid usage in sitemap.xml and robots.txt
+base_url: http://neeleyops.com
+sass:
+  sass_dir: _sass
+  style: :compressed
+paginate: 5
+paginate_path: "page:num"
+##The website description (to be used in meta tags)
+description: The personal website of Dave Neeley. I share the projects I work on, and talk about stuff that matters to me. I don't expect anyone to read it.
+##Some frequently used keywords on your website
+keywords: development, operations, devops, DevOps, neeley, powershell, saltstack, continuous, integration
+
+##define this for disqus comment support
+#disqus: forumname
+
+##set this to enable google analytics
+#ga_id: analyticsID
+#ga_domain: analyticsDomain
+
+##Some commonly used links
+links:
+  facebook: dave.neeley1
+  twitter: daveneeley
+  email: dave.neeley@gmail.com
+  github: daveneeley
+
+##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
+about_image: MeAndTheWifey.jpg
+##comment this if you want full width posts with no sidebar
+sidebar: on
