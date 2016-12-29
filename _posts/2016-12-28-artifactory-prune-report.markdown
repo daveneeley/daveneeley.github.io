@@ -5,7 +5,7 @@ categories: code
 date: 2016-12-28 16:40
 ---
 
-My team uses Artifactory as our binary repository. If you're reading this, you probably use it too. It has this neat ability to 'prune unreferenced data'. An admin feature to be grateful for when needed, but the fact that you need it means something's busted in a bad way.
+My team uses Artifactory as our binary repository. If you're reading this, you probably use it too. It has this neat ability to [prune unreferenced data](https://www.jfrog.com/confluence/display/RTF/Regular+Maintenance+Operations#RegularMaintenanceOperations-Storage). An admin feature to be grateful for when needed, but the fact that you need it means something's busted in a bad way.
 
 As the documentation points out:
 
