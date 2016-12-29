@@ -4,9 +4,6 @@ title: Artifactory Prune Report
 categories: code
 date: 2016-12-28 16:40
 ---
-
-## Pruning Unreferenced Data
-
 My work uses Artifactory as our binary repository. If you're reading this, you probably use it too. It has this neat ability to 'prune unreferenced data', but it's one of those admin features you won't encounter in regular usages.
 
 As the documentation points out:
