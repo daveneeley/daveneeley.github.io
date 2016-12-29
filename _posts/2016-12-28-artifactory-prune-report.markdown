@@ -4,13 +4,16 @@ title: Artifactory Prune Report
 categories: code
 date: 2016-12-28 16:40
 ---
-My work uses Artifactory as our binary repository. If you're reading this, you probably use it too. It has this neat ability to 'prune unreferenced data', but it's one of those admin features you won't encounter in regular usages.
+
+My team uses Artifactory as our binary repository. If you're reading this, you probably use it too. It has this neat ability to 'prune unreferenced data', but it's one of those admin features you are greatful for, but wish you didn't need to use.
 
 As the documentation points out:
 
 > Unreferenced binary files may occur due to running with wrong file system permissions on storage folders, or running out of storage space.
 > When you invoke this action, Artifactory removes unreferenced binary files and empty folders present in the filestore or cache folders.
 > To avoid such errors, we recommend that you always allow Artifactory to shut down completely.
+
+Today's goal is to know what will be deleted by the 'prune unreferenced data' feature without deleting anything.
 
 ## How I Learned About It
 
