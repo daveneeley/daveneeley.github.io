@@ -2,7 +2,7 @@
 layout: post
 title:  "FamilySearch GEDCOM Export"
 date:   2017-04-17 02:01:00
-categories: family history 
+categories: family-history 
 ---
 Today I was able to export my ancestry from [Family Search](https://familysearch.org) into GEDCOM format, and then import it into [Family Tree DNA](https://www.familytreedna.com/). I only exported seven generations back, which was far enough to encompass both my last confidently known paternal and maternal ancestors. I am so grateful for the countless hours of work done by many people to make the family tree available, as well as to make the export possible. I have not done much family history work myself.
 
