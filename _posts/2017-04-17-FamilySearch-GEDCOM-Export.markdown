@@ -14,11 +14,11 @@ The script is called [getmyancestors.py](https://github.com/freeseek/getmyancest
 
 The first thing to leverage is the command prompt. It's been around since Windows 3.1, and many people still call it the DOS prompt. The next tool is called Chocolatey, which is a package manager for installing windows-based utilities. The third tool is Git, which is a source-code management system (the getmyancestors.py script is source-code). The next tool is python, a programming language that can be used on many different operating systems such as Windows, Mac, and Linux. And finally, the getmyancestors python script itself.
 
-###Adminstrative Command Prompt###
+## Adminstrative Command Prompt
 
 The Command Prompt is already on your Windows PC. We'll need to run it as an dminstrator in order to install the other tools. Just search for cmd in the windows start menu, then right-click it, and select Run As Administrator. 
 
-###Chocolatey###
+## Chocolatey
 
 Go to [chocolatey.org/install](https://chocolatey.org/install) to copy the one-line string that will automatically download and install chocolatey for you to your clipboard. As of this writing, that string is:
 
@@ -28,7 +28,7 @@ Go to [chocolatey.org/install](https://chocolatey.org/install) to copy the one-l
 
 The way to paste this into a command prompt is to right-click anywhere inside the command prompt window and select 'paste'. I promise, this is the hardest part.
 
-###Other Tools###
+## Other Tools
 
 With chocolatey installed, you can run simpler commands to install everything else. In the same command-prompt window, type the next three lines, hitting enter after each.
 
@@ -40,7 +40,7 @@ python -m pip install requests
 
 This will install git, python3, and an extra python script that is required to run getmyancestors on your PC.
 
-###Download the script###
+## Download the script
 
 Now, close the command prompt you just opened, and open a new one. You don't need to be an administrator anymore. But more importantly, in your new window the folder location will be different. Typically, it's set to c:\users\<your user name>. From here you can change the directory to inside your documents folder and make a copy of the script.
 
@@ -51,7 +51,7 @@ git clone https://github.com/freeseek/getmyancestors.git
 
 This will make a new folder called getmyancestors inside your documents folder. 
 
-###Export to GEDCOM###
+## Export to GEDCOM
 
 At this point, you are ready to run the first example from the README. You'll want to change directory into the getmyancestors folder, and then run the script.
 
