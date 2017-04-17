@@ -4,7 +4,7 @@ title:  "FamilySearch GEDCOM Export"
 date:   2017-04-17 02:01:00
 categories: family-history 
 ---
-Today I was able to export my ancestry from [Family Search](https://familysearch.org) into GEDCOM format, and then import it into [Family Tree DNA](https://www.familytreedna.com/). I only exported seven generations back, which was far enough to encompass both my last confidently known paternal and maternal ancestors. I am so grateful for the countless hours of work done by many people to make the family tree available, as well as to make the export possible. I have not done much family history work myself.
+Today I was able to export my ancestry from [Family Search](https://familysearch.org) into GEDCOM format, and then import it into [Family Tree DNA](https://www.familytreedna.com/). I only exported seven generations back, which was far enough to encompass both my last confidently known paternal and maternal ancestors. I am so grateful for the countless hours of work done by many people to make the family tree available, as well as to make the export possible. Truly, we stand on the shoulders of giants. 
 
 According to [wikipedia.org](https://en.wikipedia.org/wiki/GEDCOM), "GEDCOM (an acronymn for Genealogical Data Communication) is an open de facto specification for exchanging genealogical data between different genealogy software. GEDCOM was developed by the Church of Jesus Christ of Latter-day Saints (LDS Church) as an aid to genealogical research." It's pronounced JED-com, like Uncle Jed from The Beverly Hillbillies. Even though it's an old-school sequential text format, it works! In particular, it's the only import format supported by Family Tree DNA.
 
