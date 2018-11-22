@@ -8,7 +8,7 @@ highlighter: rouge
 gems: [jekyll-paginate]
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
-base_url: http://neeleyops.com
+base_url: https://neeleyops.com
 sass:
   sass_dir: _sass
   style: :compressed
