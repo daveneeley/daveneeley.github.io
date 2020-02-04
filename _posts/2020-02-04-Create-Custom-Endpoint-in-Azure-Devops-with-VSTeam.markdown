@@ -192,7 +192,7 @@ parameters:
   connection: '' #name of arm connection in bootstrap project
   project: '' #name of project within azure devops collection
   region: '' #region where resources will be located
-  account: '' #name of azure devops collection (dev.azure.com/<account>/
+  account: '' #name of azure devops collection (dev.azure.com/<account>/)
 
 jobs:
 - job:
