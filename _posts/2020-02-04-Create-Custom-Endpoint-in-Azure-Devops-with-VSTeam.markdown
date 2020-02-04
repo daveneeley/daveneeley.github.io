@@ -186,6 +186,7 @@ if (!$ep) {
 
 Save the script below as `templates/resource-group.yml`. Since I use this for multiple projects, it's in a yaml template file. I've left out the step that creates the resource group.
 
+<!-- {% raw %} -->
 ``` yaml
 parameters:
   connection: '' #name of arm connection in bootstrap project
@@ -212,6 +213,7 @@ jobs:
         -endpointType azurerm
       azurePowershellVersion: latestVersion
 ```
+<!-- {% endraw %} -->
 
 Save this file as `azure-pipelines.yml`. After you push this code, start a new pipeline from an existing script in Azure Devops and use this file.
 
