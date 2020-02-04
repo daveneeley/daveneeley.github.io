@@ -2,7 +2,7 @@
 layout: post
 title:  "Create Custom Endpoint in Azure Devops with VSTeam"
 date:   2020-02-04 12:00:00
-categories: work
+categories: code
 ---
 
 I'm very happy to have found the [vsteam](https://github.com/DarqueWarrior/vsteam) Powershell module on GitHub. At work we have a custom application to provision resource groups in Azure, but for my home projects it's powershell all the way. I've seen some other modules, but vsteam has a very clean implementation. It's great stuff.
