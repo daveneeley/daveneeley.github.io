@@ -133,9 +133,15 @@ function Get-RandomAlphanumericString {
 
 ###################
 
+#used for Merge-Object
 if (!(Get-Command -module Functional)) {
   Install-Module Functional -Force
   Import-Module Functional -Force
+}
+#used for azure commands
+if (!(Get-Command -module 'Az.*')) {
+  Install-Module Az -Force
+  Import-Module Az -Force
 }
 New-VSTeamInstance -account $account -project $project -token $token
 $team = Get-VSTeamProject -Name $project
