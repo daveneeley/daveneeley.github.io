@@ -5,7 +5,7 @@ date:   2020-02-05 10:30:00
 categories: code
 ---
 
-Yesterday I wrote [Create a Custom Endpoint in Azure Devops with VSTeam]({% post_url 2020-02-04-create-custom-endpoint-in-azure-devops-with-vsteam %}). You'll need some of the scripts from that project for today's post.
+Yesterday I wrote [Create a Custom Endpoint in Azure Devops with VSTeam]({% post_url 2020-02-04-Create-Custom-Endpoint-in-Azure-Devops-with-VSTeam %}). You'll need some of the scripts from that project for today's post.
 
 Azure Container Registry (ACR) is a powerful tool within Azure. One way to take advantage of ACR in Azure Pipelines is to create a service endpoint in an Azure DevOps project and use it like a container registry, where you build and run container images on an agent in a pool. But ACR also has the concept of tasks, where you build and run container images within ACR itself. I came across this second option when I wanted to build images for the Raspberry Pi, which does not have an agent pool in Azure DevOps.
 
@@ -114,7 +114,7 @@ $data = @{
 docker-endpoint -account $account -project $project -resourceGroupName $resourceGroupName -endpointType dockerregistry -endpointName "acr-$project" -data $data -token $token -scope $docker_scope -role $docker_role
 ```
 
-The tasks feature of ACR is available in the Azure CLI (and probably other places too). The Azure CLI task in Azure DevOps uses the standard Azure Resource Manager service connection. Use the script from [yesterday's post]({% post_url 2020-02-04-create-custom-endpoint-in-azure-devops-with-vsteam %}) to make the endpoint in your Azure DevOps project.
+The tasks feature of ACR is available in the Azure CLI (and probably other places too). The Azure CLI task in Azure DevOps uses the standard Azure Resource Manager service connection. Use the script from [yesterday's post]({% post_url 2020-02-04-Create-Custom-Endpoint-in-Azure-Devops-with-VSTeam %}) to make the endpoint in your Azure DevOps project.
 
 This script adds permission to your existing app registration (and corresponding service principal) to run ACR Tasks. Save it as `azure/acrtaskrunnerrole.ps1` in the same project as the other scripts.
 
