@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Google Fi"
+date: 2020-05-03 08:55:00
+categories: tech
+---
+Problem: Family link child controls cannot be assigned to a Fi phone when that phone is associated with the parent's google account.
+
+As a subscriber, I want to be owner of a Fi group plan without having a phone number in the group plan.
+
+As a subscriber, I want to change the Google account associated with a Fi phone, without ordering a new SIM card.
+
+As a subscriber, I want to change the Google account associated with a Fi phone, without migrating to a new plan.
+
+As a subscriber, I want to change the Google account associated with a Fi phone, without getting a new phone number.
+
+As a subscriber, I want to do a Fi to Fi transfer without being prompted to order a new SIM card.
+
+As a subscriber, I want to transfer my non-owner Fi phone to another Fi group plan where I am also not the owner, without ordering a new SIM card.
